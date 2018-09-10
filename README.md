@@ -113,6 +113,11 @@ $ sudo criu check
 $ sudo criu check --all
 # You will see 'looks good'
 ```
+You can also install from linux distribution
+```
+https://pkgs.org/download/criu
+```
+
 - ##### Test your live migration
 1. On the host
 ```sh
