@@ -72,6 +72,10 @@ $ wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.14/linux-image-4.14.0-04
 $ sudo dpkg -i *.deb
 $ sudo reboot
 ```
+` You can also install from linux distribution 
+```
+https://pkgs.org/download/criu
+```
 - ##### Installing Docker-ce 17.03 through package
 
 ```sh
